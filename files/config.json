@@ -1,0 +1,13 @@
+{
+    "cache": {
+        "token": "c34f0c0d-aa6a-405a-9f06-8aad8e527116",
+        "get": "https://ws.cipiaceinfo.it/cache/get",
+        "set": "https://ws.cipiaceinfo.it/cache/set",
+        "key": "POI"
+    },
+    "credential": {
+        "token": "c34f0c0d-aa6a-405a-9f06-8aad8e527116",
+        "login": "https://ws.cipiaceinfo.it/credential/login",
+        "register": "https://ws.cipiaceinfo.it/credential/register"
+    }
+}
